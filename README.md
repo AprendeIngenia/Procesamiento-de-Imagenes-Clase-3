@@ -6,7 +6,7 @@ Hola, chicos en este repositorio encontrarán toda la clase 3 del curso de visi�
 - Para iniciar recomendamos ver algunos conceptos introductorios sobre el procesamiento de imagenes, por eso te dejamos la explicación en este [video.](https://youtu.be/mLNB5bJZVHA)
 
 
-![Miniatura](https://user-images.githubusercontent.com/85022752/221599221-9ba52349-d045-4cf1-8371-d1a45f3ec67c.jpg)
+![Miniatura YouTube curso SEO 3D morado (3)](https://user-images.githubusercontent.com/85022752/235784805-c77247b7-62d2-4ae2-8be4-f76ab61764c4.jpg)
 
 
 ### Instalación del entorno:
